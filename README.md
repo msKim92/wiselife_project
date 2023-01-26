@@ -36,6 +36,7 @@
 <img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/%EC%8A%AC%EA%B8%B01.png?raw=true" width = 950>  
 
 ### 📐 **How I managed problem**
+[이미지 리사이징 블로깅](https://mskim92.kr/posts/image-resizing/)  
 
 <img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/%EC%8A%AC%EA%B8%B02.png?raw=true" width = 950>
 <br>
