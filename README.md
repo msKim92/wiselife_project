@@ -33,11 +33,11 @@
 <br>
 
 ### ⚒ **What I did**
-<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%EC%83%9D%ED%99%9C1.png?raw=true" width = 950>  
+<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/%EC%8A%AC%EA%B8%B01.png?raw=true" width = 950>  
 
 ### 📐 **How I managed problem**
 
-<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4%EC%83%9D%ED%99%9C2.png?raw=true" width = 950>
+<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/%EC%8A%AC%EA%B8%B02.png?raw=true" width = 950>
 <br>
 
 
