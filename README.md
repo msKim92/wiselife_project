@@ -13,11 +13,9 @@
 
 <br>
 
-### 🎯 Target
+### 🎯 서비스 흐름도
 
-- 혼자 시작하기 힘든 사람들
-- 동기부여가 필요한 사람들
-- 이루고 싶은 목표가 있는 사람들
+<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/%ED%94%8C%EB%A1%9C%EC%9A%B0.png?raw=true">
 
 <br>
 
@@ -127,23 +125,4 @@
 |:---:|:---:|:---:|
 |<img src="https://user-images.githubusercontent.com/107466003/214785446-5381a4ca-8eab-4a7e-addc-ce7d81c1d7ac.gif" alt="MyPage">|<img src="https://user-images.githubusercontent.com/107466003/214785462-daecc216-1755-4f54-b8e0-c81217a96da9.gif" alt="MemberPage">|<img src="https://user-images.githubusercontent.com/107466003/214784668-d86ba421-81ab-414f-99b2-f0f50095e442.gif" alt="SearchMember">|
 
-<br>
-
------
-
-### :trophy: Team Members
-
-#### Frontend
-
-|                         한병주                         |                         김은비                         |                         심이서                         |
-| :----------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: |
-| <img src ="https://ifh.cc/g/PhKbwS.jpg" width="900" /> | <img src ="https://ifh.cc/g/m9k8O5.jpg" width="750" /> | <img src ="https://ifh.cc/g/3az1RX.jpg" width="780" /> |
-
-#### Backend
-
-|                         김민섭                         |                         김유현                          |                         오영운                         |
-| :----------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------: |
-| <img src ="https://ifh.cc/g/qtOQCX.jpg" width="700" /> | <img src ="https://ifh.cc/g/nDYSGQ.jpg" width="600" /> | <img src ="https://ifh.cc/g/RjO0Xy.jpg" width="630" /> |
-
-<br>
 <br>
