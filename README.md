@@ -11,34 +11,32 @@
 <br>하지만 그 목표들을 이루지 못 하고 내년으로 미뤄지게 되는 경우가 다반수죠.
 <br>마라톤에도 페이스메이커가 있듯 목표달성을 도와주는 서비스가 필요하다면 슬기로운 생활과 함께하세요. 
 
-<br>
-
-### 🎯 서비스 흐름도
-
-<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/%ED%94%8C%EB%A1%9C%EC%9A%B0.png?raw=true">
-
-<br>
-
 ### 💻 Service
 
-    개발 기간 2022.11.8 - 2022.12.7 (30일)
+    개발 기간 2022.11.8 - 2022.12.7 (30일) 
  
  - 웹사이트 : [바로가기](https://wiselife.click/)
- - 발표 영상 : [바로가기](https://www.youtube.com/watch?v=I0s1v3WJ95g)
 
 <br>
 
+## 🎯 서비스 흐름도
+
+<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/1.jpg?raw=true" width = 950>
+
 <br>
 
-### ⚒ **What I did**
-<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/%EC%8A%AC%EA%B8%B01.png?raw=true" width = 950>  
+### ⚒ **Summary**
+<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/2.jpg?raw=true" width = 950>  
 
-### 📐 **How I managed problem**
-[이미지 리사이징 블로깅](https://mskim92.kr/posts/image-resizing/)  
+## 📐 **How I managed problem** (UPDATING... `결제 로직 무결성 처리`, `인증 동시성 문제`)
 
-<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/%EC%8A%AC%EA%B8%B02.png?raw=true" width = 950>
+[이미지 리사이징 블로깅 바로가기](https://mskim92.kr/posts/image-resizing/)  
+  
+<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/4.jpg?raw=true" width = 950>
+
+<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/5.jpg?raw=true" width =950>
+
 <br>
-
 
 ### :earth_africa: Project Architecture
 
@@ -101,13 +99,13 @@
 
 <br>
 
-### 📬 Collaboration Tools
+## 📬 Collaboration Tools
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
 
 <br>
 
-### 🔍 화면 미리보기
+## 🔍 화면 미리보기
 
 |메인1|메인2|로그인|
 |:---:|:---:|:---:|
