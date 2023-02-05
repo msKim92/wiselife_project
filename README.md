@@ -23,9 +23,7 @@
 
 <img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/1.jpg?raw=true" width = 950>
 
-<br>
-
-### ⚒ **Summary**
+## ⚒ **Summary**
 <img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/2.jpg?raw=true" width = 950>  
 
 ## 📐 **How I managed problem** (UPDATING... `결제 로직 무결성 처리`, `인증 동시성 문제`)
@@ -34,8 +32,11 @@
   
 <img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/4.jpg?raw=true" width = 950>
 
+<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/line.png?raw=true" width =950>
+
 <img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/5.jpg?raw=true" width =950>
 
+<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/line.png?raw=true" width =950>
 <br>
 
 ### :earth_africa: Project Architecture
