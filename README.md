@@ -28,9 +28,9 @@
 
 ## 📐 **How I managed problem** (UPDATING... `결제 로직 무결성 처리`, `인증 동시성 문제`)
 
-[이미지 리사이징 블로깅 바로가기](https://mskim92.kr/posts/image-resizing/)  
+ 
   
-<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/4.jpg?raw=true" width = 950>
+[<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/4.jpg?raw=true" width = 950>](https://mskim92.kr/posts/image-resizing/)
 
 <img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/line.png?raw=true" width =950>
 
