@@ -19,14 +19,14 @@
 
 <br>
 
-## 🎯 서비스 흐름도
+# 🎯 서비스 흐름도
 
 <img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/1.jpg?raw=true" width = 950>
 
 ## ⚒ **Summary**
 <img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/2.jpg?raw=true" width = 950>  
 
-## 📐 **How I managed problem**
+# 📐 **How I managed problem**
 
 <img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/K-011.jpg?raw=true" width = 950> 
 
@@ -39,7 +39,7 @@
 <img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/K-013.jpg?raw=true" width =950>
 <br>
 
-### :earth_africa: Project Architecture
+# :earth_africa: Project Architecture
 
 <img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/image.png?raw=true" width = 950>
 
