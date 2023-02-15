@@ -19,11 +19,12 @@
 
 <br>
 
+
 # 🎯 서비스 흐름도
 
 <img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/1.jpg?raw=true" width = 950>
 
-## ⚒ **Summary**
+# ⚒ **Summary**
 <img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/2.jpg?raw=true" width = 950>  
 
 # 📐 **How I managed problem**
