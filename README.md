@@ -41,7 +41,7 @@
 
 ### :earth_africa: Project Architecture
 
-[![ttt.png](https://i.postimg.cc/NMfRb5S3/ttt.png)](https://postimg.cc/06F6y28n)
+<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/image.png?raw=true" width = 950>
 
 
 <br>
