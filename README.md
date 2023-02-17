@@ -18,20 +18,19 @@
  - 웹사이트 : [바로가기](https://wiselife.click/)
 
 
+# :earth_africa: Project Architecture
+
+<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/image.png?raw=true" width = 950>
+
 <br>
 
-## 📬 Service Architecture
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-<br>
+# ⚒ **Summary**
+<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/2.jpg?raw=true" width = 950>  
 
 
 # 🎯 서비스 흐름도
 
 <img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/1.jpg?raw=true" width = 950>
-
-# ⚒ **Summary**
-<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/2.jpg?raw=true" width = 950>  
 
 # 📐 **How I managed problem**
 
@@ -45,10 +44,6 @@
 
 <img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/K-013.jpg?raw=true" width =950>
 <br>
-
-# :earth_africa: Project Architecture
-
-<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/image.png?raw=true" width = 950>
 
 
 <br>
