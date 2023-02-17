@@ -13,10 +13,16 @@
 
 ### 💻 Service
 
-    개발 기간 2022.11.8 - 2022.12.7 (30일) 
+  개발 기간 2022.11.8 - 2022.12.7 (30일) + Still refactoring
  
  - 웹사이트 : [바로가기](https://wiselife.click/)
 
+
+<br>
+
+## 📬 Service Architecture
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
 <br>
 
 
@@ -99,11 +105,6 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Auth2-EB5424?style=for-the-badge&logo=Auth0&logoColor=white">
 
-<br>
-
-## 📬 Collaboration Tools
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
 
 <br>
 
