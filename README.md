@@ -42,7 +42,7 @@
 
 <img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/line.png?raw=true" width =950>
 
-<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/K-013.jpg?raw=true" width =950>
+<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/rere.png?raw=true" width =950>
 <br>
 
 
