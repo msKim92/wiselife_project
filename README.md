@@ -25,7 +25,7 @@
 <br>
 
 # ⚒ **Summary**
-<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/2.jpg?raw=true" width = 950>  
+<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/%EC%88%98%EC%A0%952.png?raw=true" width = 950>  
 
 
 # 🎯 서비스 흐름도
@@ -34,7 +34,7 @@
 
 # 📐 **How I managed problem**
 
-<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/%EC%88%98%EC%A0%952.png?raw=true" width = 950> 
+<img src="" width = 950> 
 
 <img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/line.png?raw=true" width =950>
   
