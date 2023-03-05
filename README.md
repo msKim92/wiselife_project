@@ -1,3 +1,26 @@
+<br>
+
+## 🔍 화면 미리보기
+
+|메인1|메인2|로그인|
+|:---:|:---:|:---:|
+|<img src="https://user-images.githubusercontent.com/107466003/214777013-c20ee33f-862e-4d21-be6f-2cb4cc22fff6.gif" alt="MainPage">|<img src="https://user-images.githubusercontent.com/107466003/214777506-f3f1a5d0-68c9-4818-816b-28632d69c30d.gif" alt="MainPage2">|<img src="https://user-images.githubusercontent.com/107466003/214778376-c608bb8f-474f-4da7-aa32-e87ca5228d7d.gif" alt="Login">|
+
+|챌린지 참가전|챌린지 참가중|결제|
+|:---:|:---:|:---:|
+|<img src="https://user-images.githubusercontent.com/107466003/214780874-130bfe8a-e34e-43d0-a6af-707fefe13876.gif" alt="ChallengeJoin">|<img src="https://user-images.githubusercontent.com/107466003/214781989-36cde940-866e-4f4f-bf75-07786c028ca9.gif" alt="ChallengeDetail">|<img src="https://user-images.githubusercontent.com/107466003/214780033-0bdfcfdf-5a6d-4375-9682-bbcef7b0cf8f.gif" alt="Payment" >|
+
+|챌린지 생성|챌린지 생성2|챌린지 검색|
+|:---:|:---:|:---:|
+|<img src="https://user-images.githubusercontent.com/107466003/214783280-d038f389-9c6f-409a-a612-f4a787256189.gif" alt="CreateChallenge">|<img src="https://user-images.githubusercontent.com/107466003/214784199-963dc0f0-5f4c-4bea-a781-97afeddf2bad.gif" alt="CreateChallengeValidation">|<img src="https://user-images.githubusercontent.com/107466003/214784657-2896d409-a17c-4d96-8c69-8c4768f94185.gif" alt="SearchChallenge">|
+
+|마이 페이지|멤버 페이지|멤버 검색|
+|:---:|:---:|:---:|
+|<img src="https://user-images.githubusercontent.com/107466003/214785446-5381a4ca-8eab-4a7e-addc-ce7d81c1d7ac.gif" alt="MyPage">|<img src="https://user-images.githubusercontent.com/107466003/214785462-daecc216-1755-4f54-b8e0-c81217a96da9.gif" alt="MemberPage">|<img src="https://user-images.githubusercontent.com/107466003/214784668-d86ba421-81ab-414f-99b2-f0f50095e442.gif" alt="SearchMember">|
+
+<br>
+
+
 # :alarm_clock: 슬기로운 생활
   
 목표 달성을 위해 꼭 필요한 서비스
@@ -101,24 +124,3 @@
 <img src="https://img.shields.io/badge/Auth2-EB5424?style=for-the-badge&logo=Auth0&logoColor=white">
 
 
-<br>
-
-## 🔍 화면 미리보기
-
-|메인1|메인2|로그인|
-|:---:|:---:|:---:|
-|<img src="https://user-images.githubusercontent.com/107466003/214777013-c20ee33f-862e-4d21-be6f-2cb4cc22fff6.gif" alt="MainPage">|<img src="https://user-images.githubusercontent.com/107466003/214777506-f3f1a5d0-68c9-4818-816b-28632d69c30d.gif" alt="MainPage2">|<img src="https://user-images.githubusercontent.com/107466003/214778376-c608bb8f-474f-4da7-aa32-e87ca5228d7d.gif" alt="Login">|
-
-|챌린지 참가전|챌린지 참가중|결제|
-|:---:|:---:|:---:|
-|<img src="https://user-images.githubusercontent.com/107466003/214780874-130bfe8a-e34e-43d0-a6af-707fefe13876.gif" alt="ChallengeJoin">|<img src="https://user-images.githubusercontent.com/107466003/214781989-36cde940-866e-4f4f-bf75-07786c028ca9.gif" alt="ChallengeDetail">|<img src="https://user-images.githubusercontent.com/107466003/214780033-0bdfcfdf-5a6d-4375-9682-bbcef7b0cf8f.gif" alt="Payment" >|
-
-|챌린지 생성|챌린지 생성2|챌린지 검색|
-|:---:|:---:|:---:|
-|<img src="https://user-images.githubusercontent.com/107466003/214783280-d038f389-9c6f-409a-a612-f4a787256189.gif" alt="CreateChallenge">|<img src="https://user-images.githubusercontent.com/107466003/214784199-963dc0f0-5f4c-4bea-a781-97afeddf2bad.gif" alt="CreateChallengeValidation">|<img src="https://user-images.githubusercontent.com/107466003/214784657-2896d409-a17c-4d96-8c69-8c4768f94185.gif" alt="SearchChallenge">|
-
-|마이 페이지|멤버 페이지|멤버 검색|
-|:---:|:---:|:---:|
-|<img src="https://user-images.githubusercontent.com/107466003/214785446-5381a4ca-8eab-4a7e-addc-ce7d81c1d7ac.gif" alt="MyPage">|<img src="https://user-images.githubusercontent.com/107466003/214785462-daecc216-1755-4f54-b8e0-c81217a96da9.gif" alt="MemberPage">|<img src="https://user-images.githubusercontent.com/107466003/214784668-d86ba421-81ab-414f-99b2-f0f50095e442.gif" alt="SearchMember">|
-
-<br>
