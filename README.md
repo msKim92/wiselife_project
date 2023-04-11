@@ -59,7 +59,7 @@
 
 <img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/%EC%88%98%EC%A0%951.png?raw=true" width = 950> 
 
-<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/line.png?raw=true" width =950>
+<img src="https://github.com/mskim0425/wiselife_project/blob/bedev/img/retry.png?raw=true" width =950>
   
 [<img src="https://github.com/msKim92/wiselife_project/blob/bedev/img/4.jpg?raw=true" width = 950>](https://mskim92.kr/posts/image-resizing/)
 
