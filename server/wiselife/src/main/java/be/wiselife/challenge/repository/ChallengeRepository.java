@@ -21,6 +21,6 @@ public interface ChallengeRepository extends JpaRepository<Challenge, Long>, Que
     Optional<List<Challenge>> findChallengesByChallengeCategoryOrderByCreatedAtDesc(Challenge.ChallengeCategory challengeCategory);
     Optional<Page<Challenge>> findChallengesByChallengeTitleContaining(String challengeTitle, Pageable pageable);
     Optional<List<Challenge>> findChallengesByIsClosed(boolean IsClosed);
-    @Lock(value = LockModeType.PESSIMISTIC_READ)
+//     @Lock(value = LockModeType.PESSIMISTIC_READ)
     MemberChallenge countSave(Challenge beforeChallenge, Member beforeMember);
 }
