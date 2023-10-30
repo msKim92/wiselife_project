@@ -28,7 +28,6 @@
 
 ## About Service
 
-<img src ="https://ifh.cc/g/Rag38b.jpg" width="50%" height="150"/>
 
 신년마다 사람들은 그해에 이루고자 하는 목표를 생각합니다.
 <br>하지만 그 목표들을 이루지 못 하고 내년으로 미뤄지게 되는 경우가 다반수죠.
